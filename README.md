@@ -91,6 +91,19 @@ This work is based on publicly available documentation including:
 
 ---
 
+## Architecture Diagrams
+
+### 1. Function Broker and OCI Services
+![Function Broker](./diagrams/01-zta-function-broker-scenario.png)
+
+### 2. Token Exchange and OCI Services
+![Token Exchange](./diagrams/02-zta-token-exchange-and-oci-services.png)
+
+### 3. Inbound and Outbound OCI Process Scenarios
+![Inbound Outbound](./diagrams/03-zta-inbound-outbound-process-scenarios.png)
+
+---
+
 ## Scope
 
 This is an independent architectural work intended for educational and professional contribution purposes.
