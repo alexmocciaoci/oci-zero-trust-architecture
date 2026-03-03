@@ -1,4 +1,4 @@
-# OCI Zero Trust Architecture – Multi-Perimeter Model
+# # OCI Zero Trust Architecture – Multi-Perimeter Model and Intent-Based Access Control
 
 Enterprise Oracle Cloud Infrastructure (OCI) Zero Trust Architecture reference model based on a multi-plane, multi-perimeter enforcement design.
 
@@ -66,12 +66,19 @@ The goal is to provide an architectural interpretation that clearly separates:
 ## Repository Structure
 
 /docs  
-  OCI_Zero_Trust_Architecture.pdf  
+  OCI-Zero-Trust-Architecture-Multi-Perimeter-Model-and-Intent-Based-Access-Control.pdf  
 
 /diagrams  
   ZTA diagrams and architectural views  
 
 ---
+
+## 📄 Download
+
+[Full PDF Document](./docs/OCI-Zero-Trust-Architecture-Multi-Perimeter-Model-and-Intent-Based-Access-Control.pdf)
+
+---
+
 
 ## References
 
@@ -79,6 +86,7 @@ This work is based on publicly available documentation including:
 
 - NIST SP 800-207 (Zero Trust Architecture)
 - Oracle Cloud Infrastructure Security Documentation
+- Enterprise multi-plane security principles
 - CISA Zero Trust Maturity Model
 
 ---
