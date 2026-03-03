@@ -75,7 +75,7 @@ The goal is to provide an architectural interpretation that clearly separates:
 
 ## 📄 Download
 
-[Full PDF Document](./docs/OCI Zero Trust Architecture-Multi-Perimeter Model and-Intent-Based Access Control.pdf)
+[Full PDF Document](./docs/OCI-Zero-Trust-Architecture-Multi-Perimeter-Model-and-Intent-Based-Access-Control.pdf)
 
 ---
 
